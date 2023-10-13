@@ -47,7 +47,7 @@
    ```
    ##### ejemplo de solucion 1
    ```python
-   #1.la funcion devera devolver la resta de dos numeros pasados por parametro
+   #1.la funcion devera devolver la resta de dos numeros pasados por parametro'
    def resta(a,b):
       resta=a-b
       return resta
