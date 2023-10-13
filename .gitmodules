@@ -1,0 +1,3 @@
+[submodule "primer_examen_python"]
+	path = primer_examen_python
+	url = https://github.com/joryrod/primer_examen_python.git
